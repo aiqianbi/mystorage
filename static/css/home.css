@@ -1,0 +1,29 @@
+#msgnum{
+    display:none;
+    margin-left: 160px;
+    position: absolute;
+    color: white;
+    font-size: 12px;
+    background-color: red;
+    width: 16px;
+    height: 16px;
+    line-height: 16px;
+    top: 42px;
+    text-align: center;
+    -webkit-border-radius: 24px;
+    border-radius: 24px;
+}
+#msgnumdl{
+    margin-left: 250px;
+    position: absolute;
+    color: white;
+    font-size: 12px;
+    background-color: red;
+    width: 16px;
+    height: 16px;
+    line-height: 16px;
+    top: 42px;
+    text-align: center;
+    -webkit-border-radius: 24px;
+    border-radius: 24px;display:none
+}
