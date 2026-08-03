@@ -42,10 +42,7 @@
       "targetUrl": "https://example.com/activity",
       "position": 3,
       "openMode": "external",
-      "enabled": true,
-      "priority": 100,
-      "startAt": "2026-08-01T00:00:00+08:00",
-      "endAt": "2026-09-01T00:00:00+08:00"
+      "enabled": true
     },
     {
       "id": "search-002",
@@ -57,11 +54,8 @@
       "actionType": "url",
       "targetUrl": "https://example.com/activity",
       "position": 5,
-      "openMode": "external",
-      "enabled": true,
-      "priority": 100,
-      "startAt": "2026-08-01T00:00:00+08:00",
-      "endAt": "2026-09-01T00:00:00+08:00"
+      "openMode": "in_app",
+      "enabled": true
     }
   ]
 }
