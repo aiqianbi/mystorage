@@ -48,6 +48,15 @@
       "targetUrl": "https://example.com/activity/4",
       "title": "下一部值得阅读的作品",
       "description": "全新世界观与精彩剧情，立即查看完整内容"
+    },
+    {
+      "id": "video-001",
+      "placement": "video_preroll",
+      "videoUrl": "https://cdn.pixabay.com/video/2025/04/09/270941_large.mp4",
+      "targetUrl": "https://example.com/activity/4",
+      "title": "精彩内容推荐",
+      "buttonText": "了解详情",
+      "openMode": "external"
     }
   ]
 }
