@@ -56,6 +56,20 @@
       "position": 3,
       "openMode": "in_app",
       "enabled": true
+    },
+    {
+      "id": "splash-001",
+      "placement": "app_splash",
+      "enabled": true,
+      "imageUrl": "https://images.pexels.com/photos/38428141/pexels-photo-38428141.jpeg",
+      "targetUrl": "https://example.com/activity",
+      "openMode": "external",
+      "buttonText": "查看详情",
+      "durationSeconds": 5,
+      "skipAfterSeconds": 1,
+      "priority": 100,
+      "startAt": "2026-08-19T00:00:00+08:00",
+      "endAt": "2026-08-31T23:59:59+08:00"
     }
   ]
 }
