@@ -61,7 +61,7 @@
       "id": "splash-001",
       "placement": "app_splash",
       "enabled": true,
-      "imageUrl": "https://images.pexels.com/photos/38428141/pexels-photo-38428141.jpeg",
+      "imageUrl": "https://img.magnific.com/premium-photo/girl-bicycle_1116086-3161.jpg",
       "targetUrl": "https://example.com/activity",
       "openMode": "external",
       "buttonText": "查看详情",
